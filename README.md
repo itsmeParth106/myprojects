@@ -1,2 +1,2 @@
 # myprojects
-This repository include my projects on html,css and javascripts.
+This repository include my project of currency convertor using html,css and javascript.
